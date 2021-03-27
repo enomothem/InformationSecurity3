@@ -842,12 +842,7 @@ Trusted Platform Module（TPM）称为可信平台模块
 
 入侵检测系统（Host based IDS，HIDS）文件完整性检验
 
-
-## 参考
-
-[0] https://blog.csdn.net/qq_40837276/article/details/86583074
-
-
+## Other
 
 可信计算的基本思想是在计算机系统中首先构建一个信任根，再建立一条信任链。从信任根开始到硬件平台，到操作系统，再到应用，一级认证一级，一级信任一级。把这种信任扩展到整个计算机系统，从而确保整个计算机系统的可信，因此，<font color='red'>信任根和信任链</font>是可信计算平台的最主要的的关键技术之一
 
@@ -874,3 +869,11 @@ Trusted Platform Module（TPM）称为可信平台模块
 
 
 应急计划过程开发过程中，需要先对可能造成的影响作出分析，然后才能进行下一步计划
+
+
+## 参考
+
+[0] https://blog.csdn.net/qq_40837276/article/details/86583074
+
+
+
